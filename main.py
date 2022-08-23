@@ -375,7 +375,7 @@ def wofFinalRound():
     print("")
     print(f"The letters {finalLetters} will be provided freely")
     print("")
-    print(f"After that, {finalPlayer} can choose 3 consonants and 1 vowel afterward.")
+    print(f"After that, {finalPlayer} can choose 3 consonants and 1 vowel.")
     print("")
     print(f"Finally, {finalPlayer} will have 5 seconds to guess the word.")
 
